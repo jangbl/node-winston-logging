@@ -12,6 +12,8 @@ This repository is contains the code for the [Node winston logging tutorial on Y
 
 Please also check out my website at [jangoebel.com](https://jangoebel.com)
 
+For updates, please follow [@_jgoebel](https://twitter.com/_jgoebel) on Twitter.
+
 # How to run this application
 
 Run
